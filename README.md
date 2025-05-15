@@ -6,23 +6,9 @@ Eager to build impactful solutions and grow through continuous learning and coll
 ## 🚀 Skills
 - **Languages**: Python, Java, C++, C
 - **Web Technologies**: HTML, CSS, JavaScript
-- **Frameworks**: React, Django, Spring Boot
+- **Frameworks**: React.js, Django, Spring Boot
 - **Databases**: MySQL, MongoDB
-- **Tools**: Git, Docker, Linux, Postman
-
-## 🎓 Education
-
-- **B.Tech in Computer Science**  
-  *Swarnandhra College of Engineering and Technology*  
-  📅 *2019 – 2023*
-
-- **Intermediate (MPC)**  
-  *Sri Chaitanya Boys Junior College*  
-  📅 *2017 – 2019*
-
-- **SSC**  
-  *St. Xavier's English Medium High School*  
-  📅 *2016 – 2017*
+- **Tools**: Git, Docker, Linux, VS Code, Postman
 
 
 ## 💼 Projects
@@ -46,4 +32,4 @@ A web-based application that converts user input text into speech using Python l
 ## 📫 Let's Connect
 - 📧 Email: [ChilukuriSivakarthikeya@gmail.com](mailto:ChilukuriSivakarthikeya@gmail.com)
 - 🌐 Portfolio: [chilukurisivakarthikeya.github.io/portfolio](https://chilukurisivakarthikeya.github.io/portfolio/)
-- 📄 [Resume](#)
+- 📄 [Resume](https://drive.google.com/file/d/140kgAkS6Si9qhlzpfNff8EzP_9zG9bjU/view?usp=drive_link)
