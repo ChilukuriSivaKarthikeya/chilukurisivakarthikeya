@@ -36,12 +36,12 @@ An organic produce marketplace connecting farmers and consumers with home delive
 ### 🩸 Blood Donation System
 A platform to manage blood donations, donor registrations, and blood bank requests.
 - Built with: **Django**, **HTML**, **CSS**, **JavaScript**, **MongoDB**
-- 🔗 [GitHub Repo](https://github.com/ChilukuriSivaKarthikeya/Blood_donation_System)
+- 🔗 [GitHub Repo](https://github.com/ChilukuriSivaKarthikeya/BloodDonationSystem.git)
 
 ### 🗣️ Text-to-Speech Converter
-A web-based application that converts user input text into speech using Python TTS libraries.
+A web-based application that converts user input text into speech using Python libraries.
 - Built with: **Django**, **HTML**, **CSS**, **JavaScript**
-- 🔗 [GitHub Repo](https://github.com/ChilukuriSivaKarthikeya/Text_To_Speech_Converter)
+- 🔗 [GitHub Repo](https://github.com/ChilukuriSivaKarthikeya/Text-to-Speech_converter_project.git)
 
 ## 📫 Let's Connect
 - 📧 Email: [ChilukuriSivakarthikeya@gmail.com](mailto:ChilukuriSivakarthikeya@gmail.com)
