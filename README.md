@@ -25,11 +25,12 @@ A platform to manage blood donations, donor registrations, and blood bank reques
 - 🔗 [GitHub Repo](https://github.com/ChilukuriSivaKarthikeya/BloodDonationSystem.git)
 
 ### 🗣️ Text-to-Speech Converter
-A web-based application that converts user input text into speech using Python libraries.
+A web-based application that converts text into speech voice,regardless
+of whether input entered text or text file or text image. 
 - Built with: **Django**, **HTML**, **CSS**, **JavaScript**
 - 🔗 [GitHub Repo](https://github.com/ChilukuriSivaKarthikeya/Text-to-Speech_converter_project.git)
 
 ## 📫 Let's Connect
 - 📧 Email: [ChilukuriSivakarthikeya@gmail.com](mailto:ChilukuriSivakarthikeya@gmail.com)
 - 🌐 Portfolio: [chilukurisivakarthikeya.github.io/portfolio](https://chilukurisivakarthikeya.github.io/portfolio/)
-- 📄 [Resume](https://drive.google.com/file/d/140kgAkS6Si9qhlzpfNff8EzP_9zG9bjU/view?usp=drive_link)
+- 📄 [Resume](https://drive.google.com/file/d/1DrfWPIvTR_pxd3zAgJniBcHzttpDgnKV/view?usp=drive_link)
