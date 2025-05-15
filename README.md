@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Chilukuri Siva Karthikeya
 
-<!--
-**ChilukuriSivaKarthikeya/chilukurisivakarthikeya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software developer eager to build impactful and scalable applications.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Languages: JavaScript, Python, Java, C++
+- Frameworks: React, Django, FastAPI
+- Cloud: Google Cloud Platform (GCP)
+- Tools: Git, Docker, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Projects
+- **AgroShop App**: Organic produce marketplace connecting farmers and buyers. [Repo Link]
+- **Zomato Bot**: Telegram food ordering bot using FastAPI & Google Cloud Run. [Repo Link]
+
+## 📫 Let's Connect
+- 📧 Email: Chilukuri Siva Karthikeya
+- 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
+- 📄 [Resume](#)
+
